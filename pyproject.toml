@@ -15,7 +15,7 @@ dependencies = [
   "deprecation>=2.1.0",
   "img2pdf>=0.5",
   "packaging>=20",
-  "pdfminer.six>=20220319",
+  "pdfminer.six",
   "pi-heif",                # Heif image format - maintainers: if this is removed, it will NOT break
   "pikepdf>=10",
   "Pillow>=10.0.1",
